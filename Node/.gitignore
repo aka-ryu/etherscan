@@ -1,0 +1,5 @@
+node_modules
+mysqldb/config/db._example.json
+.env
+
+package-lock.json
